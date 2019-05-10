@@ -1,0 +1,21 @@
+Bunnies
+    Endpoint - allBunnies
+               bunny/1
+
+    Endpoints - localhost:2019/bunny/
+
+    Basic logging
+        application
+        Tomcat
+        Spring Boot
+        ROOT
+
+    Front End Work
+
+    Deploy - Heroku / WAR
+
+    CRUD
+        Create
+        Read
+        Update
+        Delete
